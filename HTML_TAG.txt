@@ -1,0 +1,22 @@
+<head>
+    <title>text</title>
+</head>
+<body></body>
+<h1></h1>~<h6></h6> 标题，从大到小
+<p> 段落
+<a href=""></> 链接
+<img src = "" width height/> 图片，单标签
+</br> 结尾用，换行 单标签
+<hr> 水平线
+
+*********文本格式化标签********
+<b>bold</b>
+<strong>
+<big>
+<em>强调
+<i>斜体
+<sup>占下半行
+<sub>占上半行
+*********END*********************
+<pre>保留内部空格 和 换行
+http://www.w3school.com.cn/html/html_formatting.asp
